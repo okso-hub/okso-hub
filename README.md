@@ -22,6 +22,8 @@
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=okso-hub&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage)
 
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=okso-hub&theme=tokyonight&hide_border=true)
+
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okan-sönmez/)
 
