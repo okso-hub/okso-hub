@@ -17,3 +17,11 @@ Currently focused on RAG systems and Large Language Models.
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Typst](https://img.shields.io/badge/-Typst-239DAD?style=flat-square&logo=typst&logoColor=white)](https://typst.app/)
 [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okso-hub/okso-hub/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okso-hub/okso-hub/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/okso-hub/okso-hub/output/github-snake.svg" />
+</picture>
